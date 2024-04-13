@@ -1,0 +1,3 @@
+environment: dev
+certifcate_arn: arn:aws:acm:us-west-2:710339184759:certificate/0fb75035-7202-4657-8a84-ab8a2c339584
+
